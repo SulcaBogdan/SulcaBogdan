@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sulca Stefan Bogdan</h1>
 <h3 align="center">A passionate self-taught software developer</h3>
 
-<img width="250px" src="https://cdn.discordapp.com/attachments/1002485120307056680/1076202200570789888/pixel-dodan.png"/>
+<img align="center" src="https://cdn.discordapp.com/attachments/1002485120307056680/1076211521094422599/dodan-github-banner-1.png"/>
 
 <h3 align="left">Education:</h3>
 <p align="left">
