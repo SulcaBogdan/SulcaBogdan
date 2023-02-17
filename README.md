@@ -4,6 +4,9 @@
 - 📫 How to reach me **stefanbogdansulca@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p>
+  As a self-taught software developer, I have completed a year-long Java online course at LINK ACADEMY and received a certificate as a Java developer. I continued to expand my knowledge and skills and learned C#, including its features such as Object-Oriented Programming (OOP), ASP.NET, Bootstrap, HTML, CSS, JavaScript, SQL, Entity Framework, LINQ, and Windows Presentation Foundation (WPF). With these technologies and tools, I have been able to write clean, maintainable, and efficient code for web and desktop applications. My experience with C# and related technologies has given me a strong foundation in software development, enabling me to tackle a wide range of projects and challenges. I am determined to continue learning and growing in this field, and I am excited about the opportunities that lie ahead in this dynamic and ever-evolving industry.
+</p>
 <p align="left">
 <a href="https://linkedin.com/in/stefan bogdan sulca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefan bogdan sulca" height="30" width="40" /></a>
 <a href="https://fb.com/bogdan sulca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bogdan sulca" height="30" width="40" /></a>
