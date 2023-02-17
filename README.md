@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sulca Stefan Bogdan</h1>
 <h3 align="center">A passionate self-taught software developer</h3>
 
-
+<img width="250px" src="https://cdn.discordapp.com/attachments/1002485120307056680/1076202200570789888/pixel-dodan.png"/>
 
 <h3 align="left">Education:</h3>
 <p align="left">
@@ -11,12 +11,15 @@
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Progamming skills and tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,java,js,html,css,bootstrap,mysql,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,js,html,css,bootstrap,mysql,dotnet,vscode,visualstudio,idea)](https://skillicons.dev)
 
-<h3 align="left">Education:</h3>
-<p align="left">
+<img src="https://img.shields.io/static/v1?label=&message=ASP.NET MVC&color=161B22"/> <img src="https://img.shields.io/static/v1?label=&message=Entity Framework&color=161B22"/> <img src="https://img.shields.io/static/v1?label=&message=WPF&color=161B22"/> <img src="https://img.shields.io/static/v1?label=&message=OOP&color=161B22"/> <img src="https://img.shields.io/static/v1?label=&message=LINQ&color=161B22"/> <img src="https://img.shields.io/static/v1?label=&message=ASP.NET Core&color=161B22"/>
+
+<img width="250px" align="left" src="https://cdn.discordapp.com/attachments/1002485120307056680/1076202200570789888/pixel-dodan.png"/> 
+<h3 align="left">About me:</h3>
+<p align="right">
       I'm a 25-year-old living in Romania, and my passion is to be creative and make a difference in the world. Working with a team of people gives me a sense of fulfillment, and I love the collaborative environment it provides. After completing college, I started working as a salesman where I was part of a team of ten individuals that managed both call center and ground work. This position taught me how to communicate with people in a professional manner and develop skills that can be applied to any work environment.
 
 I'm an honest and straightforward individual who believes in doing things the right way. I don't cut corners, and I strive for perfection in everything I do. I like to maintain an organized and clean workspace, which is a reflection of how I write code. My dream is to become a proficient developer, to utilize my creativity and spontaneous ideas to create something original and meaningful for the world. I strive to evolve mentally, spiritually, and physically, making everything I do about personal growth.
