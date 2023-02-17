@@ -15,7 +15,15 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cs,java,js,html,css,bootstrap,mysql,dotnet)](https://skillicons.dev)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sulcabogdan&show_icons=true&locale=en&layout=compact" alt="sulcabogdan" /></p>
+<h3 align="left">Education:</h3>
+<p align="left">
+      I'm a 25-year-old living in Romania, and my passion is to be creative and make a difference in the world. Working with a team of people gives me a sense of fulfillment, and I love the collaborative environment it provides. After completing college, I started working as a salesman where I was part of a team of ten individuals that managed both call center and ground work. This position taught me how to communicate with people in a professional manner and develop skills that can be applied to any work environment.
+
+I'm an honest and straightforward individual who believes in doing things the right way. I don't cut corners, and I strive for perfection in everything I do. I like to maintain an organized and clean workspace, which is a reflection of how I write code. My dream is to become a proficient developer, to utilize my creativity and spontaneous ideas to create something original and meaningful for the world. I strive to evolve mentally, spiritually, and physically, making everything I do about personal growth.
+
+I believe anything is possible, and I'm willing to do everything in my power to achieve my goals. The programming industry offers endless possibilities for creativity, and I'm eager to learn as much as I can to become a valuable contributor to the field. I want to work alongside some of the most innovative minds and companies and learn from them to grow both personally and professionally. Ultimately, my aim is to make a positive impact on the world through the power of technology.
+</p>
+
 
 <p align="left">
 <a href="https://linkedin.com/in/stefan-bogdan-sulca-75981b262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefan bogdan sulca" height="30" width="40" /></a>
