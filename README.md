@@ -11,7 +11,7 @@
 
 </p>
 
-<h3 align="left">Progamming skills and tools:</h3>
+<h2 align="left">Progamming skills and tools:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=cs,java,js,html,css,bootstrap,mysql,dotnet,vscode,visualstudio,idea)](https://skillicons.dev)
 
