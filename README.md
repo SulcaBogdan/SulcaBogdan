@@ -4,6 +4,11 @@
 <img align="center" width="100%" src="https://im5.ezgif.com/tmp/ezgif-5-5f6e9031d8.gif"/>
 
 
+
+- 📫 **stefanbogdansulca@gmail.com**
+- 📄 [Resume](https://drive.google.com/file/d/1OdRevOIq_6OXywfwdsPGEtE-5gT9nI5D/view?usp=share_link)
+
+
 <h2 align="left">Education:</h2>
 <p align="left">
       As a self-taught software developer, I have completed a year-long Java online course at LINK ACADEMY and received a certificate as a Java developer. I continued to expand my knowledge and skills and learned C#, including its features such as Object-Oriented Programming (OOP), ASP.NET, Bootstrap, HTML, CSS, JavaScript, SQL, Entity Framework, LINQ, and Windows Presentation Foundation (WPF). With these technologies and tools, I have been able to write clean, maintainable, and efficient code for web and desktop applications. My experience with C# and related technologies has given me a strong foundation in software development, enabling me to tackle a wide range of projects and challenges. I am determined to continue learning and growing in this field, and I am excited about the opportunities that lie ahead in this dynamic and ever-evolving industry.
@@ -31,14 +36,15 @@ I'm an honest and straightforward individual who believes in doing things the ri
 I believe anything is possible, and I'm willing to do everything in my power to achieve my goals. The programming industry offers endless possibilities for creativity, and I'm eager to learn as much as I can to become a valuable contributor to the field. I want to work alongside some of the most innovative minds and companies and learn from them to grow both personally and professionally. Ultimately, my aim is to make a positive impact on the world through the power of technology.
 </p>
 
-
 ## How to reach me
 
-- 📫 **stefanbogdansulca@gmail.com**
 <p align="left">
 <a href="https://linkedin.com/in/stefan-bogdan-sulca-75981b262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefan bogdan sulca" height="30" width="40" /></a>
 <a href="https://fb.com/bogdan sulca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bogdan sulca" height="30" width="40" /></a>
 <a href="https://instagram.com/bogdansulca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bogdansulca" height="30" width="40" /></a>
 </p>
+
+
+
 
 
