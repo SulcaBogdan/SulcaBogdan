@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sulca Stefan Bogdan</h1>
 <h3 align="center">A passionate self-taught software developer</h3>
 
-<img width="100%" align="center" src="C:\Users\Dodan\Desktop\dodan.gif" />
+<img align="center" width="100%" src="https://im5.ezgif.com/tmp/ezgif-5-5f6e9031d8.gif"/>
+
 
 <h2 align="left">Education:</h2>
 <p align="left">
@@ -31,11 +32,13 @@ I believe anything is possible, and I'm willing to do everything in my power to 
 </p>
 
 
+## How to reach me
+
+- 📫 **stefanbogdansulca@gmail.com**
 <p align="left">
 <a href="https://linkedin.com/in/stefan-bogdan-sulca-75981b262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefan bogdan sulca" height="30" width="40" /></a>
 <a href="https://fb.com/bogdan sulca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bogdan sulca" height="30" width="40" /></a>
 <a href="https://instagram.com/bogdansulca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bogdansulca" height="30" width="40" /></a>
 </p>
 
-- 📫 How to reach me **stefanbogdansulca@gmail.com**
-- 
+
