@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sulca Stefan Bogdan</h1>
 <h3 align="center">A passionate self-taught software developer</h3>
 
-<img width="100%" align="center" src=""C:\Users\Dodan\Desktop\dodan.gif""/>
+<img width="100%" align="center" src="C:\Users\Dodan\Desktop\dodan.gif"/>
 
 <h2 align="left">Education:</h2>
 <p align="left">
